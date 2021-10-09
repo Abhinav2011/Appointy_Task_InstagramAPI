@@ -66,9 +66,9 @@ Get a Post by ID
 ![GetPostByID](https://user-images.githubusercontent.com/62784600/136660669-7c8e416c-447a-4562-a9ad-95753830111a.png)
 
 Get all post made by a User
-![App Screenshot](https://imgur.com/65pcWHk)
-![App Screenshot](https://imgur.com/yiL177Q)
-![App Screenshot](https://imgur.com/l8jOX9C)
+![last1](https://user-images.githubusercontent.com/62784600/136660707-f8d6a9e4-5d6c-400a-84a6-3a5984224f75.png)
+![last2](https://user-images.githubusercontent.com/62784600/136660709-dadf2a3f-9b50-4574-b1c6-22cae77e435d.png)
+![last3](https://user-images.githubusercontent.com/62784600/136660712-9dabe6e6-bf6f-48f9-b33f-91e49046bce7.png)
 
 Data stored in mongo
 ![App Screenshot](https://imgur.com/0wAUxnp)
