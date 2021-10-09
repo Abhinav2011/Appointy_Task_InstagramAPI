@@ -53,7 +53,7 @@ UserId
 ## Screenshots
 
 Create a User 
-![App Screenshot](https://imgur.com/6ck6znT)
+![CreateUser](https://user-images.githubusercontent.com/62784600/136660575-a5582a18-d045-4dc8-b015-2dc0784536a4.png)
 
 Get a User by ID 
 Password is encrypted
