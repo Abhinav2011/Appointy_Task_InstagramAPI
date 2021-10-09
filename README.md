@@ -57,7 +57,7 @@ Create a User
 
 Get a User by ID 
 Password is encrypted
-![App Screenshot](https://imgur.com/LSo72Xn)
+![GetUserByID](https://user-images.githubusercontent.com/62784600/136660597-86cce7cc-9f33-491f-a278-57edf6502e94.png)
 
 Create a Post
 ![App Screenshot](https://imgur.com/Q2eCZHm)
