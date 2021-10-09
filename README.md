@@ -63,7 +63,7 @@ Create a Post
 ![CreatePost](https://user-images.githubusercontent.com/62784600/136660624-79e38872-b25d-4f2f-9f51-c62092df1b7b.png)
 
 Get a Post by ID
-![App Screenshot](https://imgur.com/JiPslos)
+![GetPostByID](https://user-images.githubusercontent.com/62784600/136660669-7c8e416c-447a-4562-a9ad-95753830111a.png)
 
 Get all post made by a User
 ![App Screenshot](https://imgur.com/65pcWHk)
