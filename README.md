@@ -60,7 +60,7 @@ Password is encrypted
 ![GetUserByID](https://user-images.githubusercontent.com/62784600/136660597-86cce7cc-9f33-491f-a278-57edf6502e94.png)
 
 Create a Post
-![App Screenshot](https://imgur.com/Q2eCZHm)
+![CreatePost](https://user-images.githubusercontent.com/62784600/136660624-79e38872-b25d-4f2f-9f51-c62092df1b7b.png)
 
 Get a Post by ID
 ![App Screenshot](https://imgur.com/JiPslos)
