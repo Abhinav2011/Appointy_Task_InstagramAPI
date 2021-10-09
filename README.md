@@ -71,5 +71,5 @@ Get all post made by a User
 ![last3](https://user-images.githubusercontent.com/62784600/136660712-9dabe6e6-bf6f-48f9-b33f-91e49046bce7.png)
 
 Data stored in mongo
-![App Screenshot](https://imgur.com/0wAUxnp)
+![from mongo](https://user-images.githubusercontent.com/62784600/136660716-e891c610-bf40-4eee-88c7-c926ca8a07f0.png)
 
